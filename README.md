@@ -39,7 +39,6 @@ Being a mechanical engineer, I've always found joy in deciphering intricate puzz
 ### Contact 📬
 - Email: [cmphillipps73@gmail.com](mailto:cmphillipps73@gmail.com)
 - LinkedIn: [Connell Phillipps](https://www.linkedin.com/in/connell-phillipps)
-- GitHub: [Connell Phillipps](https://github.com/connell-phillipps)
 
 ### Fun Facts 🎉
 - I am a Competitive sailor, racing since I was 7 years old and competed in college
