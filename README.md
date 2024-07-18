@@ -1,16 +1,49 @@
-## Hi there 👋
+## Hi there, I'm Connell Phillipps 👋
+### Mechanical Engineer transitioning into Data Science and AI
 
-<!--
-**Connell-Phillipps/Connell-Phillipps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Being a mechanical engineer, I've always found joy in deciphering intricate puzzles. Lately, I've felt an undeniable pull toward data science and machine learning. I find something captivating about using my knack for problem-solving to dive into datasets, unveiling hidden truths about our world. This transition isn't just about switching gears; it's about merging my engineering roots with a desire to confront real-world challenges. Guided by data, I am on a mission to understand the world around us more deeply.
 
-Here are some ideas to get you started:
+### Currently Learning 🌱
+- Reinforcement Learning
+- Big Data Processing with Hadoop and Spark
+- Neural Network Optimization with TensorFlow and PyTorch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills & Technologies 🔧
+- **Languages**: Python, R, MATLAB, Arduino (C++), SQL
+- **Tools**: Jupyter, TensorFlow, Keras, PyTorch, Pandas, NumPy, Matplotlib, Plotly, Bokeh, Seaborn, Tableau
+- **Other**: Machine Learning, Data Analysis, Data Visualization, Hypothesis Testing, A/B Testing, ANOVA, Regression
+- **Engineering**: SolidWorks, AutoCAD, Inventor, Fluent, Excel, Machine Shop
+- **Project Management**: Scrum, Agile, MS Project
+- **Big Data**: AWS, Hadoop, Spark, Hive
+
+### Projects 🚀
+- **Data Science & Predictive Modeling** | [NYC 911 Call Forecasting by Location](https://github.com/Connell-Phillipps/Capstone_911)
+  - Using a time series forecast and data from NYC Open Data, I created a model that predicts and displays (heatmap) the number of 911 calls occurring within an hour at different locations across New York.
+- **Data Analysis** | Part Matrix and Capacity Chart
+  - Created a tool to capture machine capacities based on reported routings, facilitating segmentation of the shop into smaller part families. Integrated job financials into this tool, allowing efficient resource scheduling and supporting large-scale shop financial planning.
+
+### Experience 💼
+- **Manufacturing Engineer** at [B&B Precise Products](URL) (August 2023 - March 2024)
+  - Managed project implementation for a 15,000 ft² site expansion, ensuring deadlines were met and completed within budget.
+  - Designed and implemented a shop layout based on lean manufacturing principles, optimizing workflow efficiency and resource utilization.
+  - Developed a 2024 capital expenditure budget to project shop growth, incorporating new machine acquisitions with strategic shop objectives.
+  - Created a continuous improvement project group that systematically solved a new weekly problem, kindling a culture of innovation and efficiency.
+- **Facilities Engineering Intern** at [Global Foundries](URL) (June 2022 - August 2022)
+  - Designed a solution to prevent internal icing in the sequential batch reactor room, increasing operational efficiency and safety.
+  - Spearheaded the implementation process to upgrade facilities' pH probes, optimizing monitoring accuracy and ensuring compliance with quality standards.
+
+### Education 🎓
+- **Diploma in Data Science** from BrainStation, New York, NY (April 2024 - July 2024)
+- **Bachelor of Science in Mechanical Engineering**, Minor in Mathematics from The University of Vermont, Burlington, VT (August 2019 - May 2023)
+
+### Contact 📬
+- Email: [cmphillipps73@gmail.com](mailto:cmphillipps73@gmail.com)
+- LinkedIn: [Connell Phillipps](https://www.linkedin.com/in/connell-phillipps)
+- GitHub: [Connell Phillipps](https://github.com/connell-phillipps)
+
+### Fun Facts 🎉
+- I am a Competitive sailor, racing since I was 7 years old and competed in college
+- I love solving puzzles and playing chess.
+- I'm an avid traveler and enjoy hiking, snowboarding and skinning.
+
+![Connell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=connell-phillipps&show_icons=true)
