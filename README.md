@@ -45,4 +45,4 @@ Being a mechanical engineer, I've always found joy in deciphering intricate puzz
 - I love solving puzzles and playing chess.
 - I'm an avid traveler and enjoy hiking, snowboarding and skinning.
 
-![Connell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=connell-phillipps&show_icons=true)
+[//]: # ![Connell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=connell-phillipps&show_icons=true)
