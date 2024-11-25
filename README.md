@@ -1,7 +1,7 @@
 ## Hi there, I'm Connell Phillipps 👋
-### Mechanical Engineer transitioning into Data Science and AI
+### Manufacturing Engineer with a specialty in Data Science
 
-Being a mechanical engineer, I've always found joy in deciphering intricate puzzles. Lately, I've felt an undeniable pull toward data science and machine learning. I find something captivating about using my knack for problem-solving to dive into datasets, unveiling hidden truths about our world. This transition isn't just about switching gears; it's about merging my engineering roots with a desire to confront real-world challenges. Guided by data, I am on a mission to understand the world around us more deeply.
+As a manufacturing engineer, I was introduced to lean optimization, an approach to increasing efficiency that struck a chord with me. This ignited a passion for exploring system inefficiencies and solving optimization problems. Determined to deepen my impact I explored data science and equipped myself with the tools to analyze data and uncover hidden opportunities for optimization. By combining engineering and data science, I’m able to uncover inefficiencies, optimize processes, and contribute impactful, forward-thinking solutions in collaborative environments.
 
 ### Currently Learning 🌱
 - Reinforcement Learning
